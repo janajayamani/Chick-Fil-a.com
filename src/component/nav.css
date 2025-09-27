@@ -1,0 +1,23 @@
+.navbar {
+  border-bottom: 1px solid #eee;
+}
+
+.nav-link {
+  margin: 0 8px;
+}
+
+.btn-outline-danger {
+  border-width: 2px;
+}
+
+.btn-danger {
+  background: linear-gradient(to right, #d6001c, #e8002d);
+  border: none;
+}
+
+.bow img{
+  height: 20px;
+  width: auto;
+  margin-top: -5px;
+  margin-left: -2px;
+}

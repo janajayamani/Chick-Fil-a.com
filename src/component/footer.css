@@ -1,0 +1,33 @@
+.sec1{
+    display: flex;
+    margin-top: 30px;
+}
+
+.sec1 th{
+    color: #dd0031;
+    padding-left: 10px;
+}
+
+.sec1 .soc{
+    font-size: 12px;
+}
+
+.soc td{
+    line-height: 8px;
+    padding-left: 10px;
+    line-height: 14px;
+}
+
+a{
+    padding-left: 42px;
+}
+
+.hos img{
+    height: 40px;
+    width: 40px;
+    padding-left: -20px;
+}
+
+.hos{
+    text-align: right;
+}
